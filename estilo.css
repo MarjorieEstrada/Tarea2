@@ -39,6 +39,10 @@
  
 #cosita{
    background-image: linear-gradient(180deg, #4f3f66 0, #3b2e5f 25%, #1f1f59 50%, #001253 75%, #00004e 100%); padding: 7px;
+   box-shadow: 0 0 18px  #ffffff;
+} 
+#cosita1{
+   background-image: linear-gradient(180deg, #4f3f66 0, #3b2e5f 25%, #1f1f59 50%, #001253 75%, #00004e 100%); padding: 7px;
 } 
 h2{
     margin-bottom: 30px;
@@ -56,6 +60,7 @@ h2{
     font-style: normal;
     float: right;
     padding: 10px 30px 10px 30px;
+    box-shadow: 0 0 18px  #000000;
 }
 #highlight2 {
     background-color:pink;
@@ -66,6 +71,7 @@ h2{
     font-style: normal;
     float: right;
     padding: 10px 30px 10px 30px;
+    box-shadow: 0 0 18px  #000000;
 }
 #highlight3 {
      
@@ -77,6 +83,7 @@ h2{
     font-style: normal;
     float: right;
     padding: 10px 30px 10px 30px;
+    box-shadow: 0 0 18px  #000000;
 }
 #highlight4 {
      
@@ -88,6 +95,7 @@ h2{
     font-style: normal;
     float: right;
     padding: 10px 30px 10px 30px;
+    box-shadow: 0 0 18px  #000000;
 }
 
  
@@ -272,4 +280,10 @@ h2{
    
 }
          
+}
+.navbar-default {
+    background-color: #f8f8f800;
+    border-color: #e7e7e700;
+   
+    margin: 0 auto;
 }

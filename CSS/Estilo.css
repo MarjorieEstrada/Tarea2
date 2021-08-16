@@ -1,0 +1,71 @@
+body{
+	font-size: 17px;
+	color: #fff;
+	background-color: #EC7063;
+	font-family: 'Oxygen', sans-serif;
+	font-style: inherit;
+}
+#header-nav{
+	background-color: #FADBD8;
+}
+#font{
+	font-size: 35px;
+	font-style: inherit;
+	text-transform: uppercase;
+}
+#nav-list {
+	color: #951C49;
+	text-align: center;
+}
+#nav-list a{
+	color: #1C2833;
+	font-style: inherit;
+	font-size: 18px;
+}
+#Menu-titles a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-style: inherit;
+}
+#Pollo-title{
+	background-color: #0E6251;
+	padding: 15px;
+}
+#Carne-title{
+	background-color: #0E6251;
+	padding: 15px;
+}
+#Sushi-title{
+	background-color: #0E6251;
+	padding: 15px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #0B5345;
+	border-radius: 18px;
+}
+.navbar-header button.navbar-toggle{
+	clear:both;
+	margin-top: -30px;
+}
+.navbar-brand h1{
+	color: #1C2833;
+	text-transform: uppercase;
+}
+ .navbar-brand a{
+	text-decoration: none;
+}
+
+.footer-nav {
+	background-color: #FADBD8;
+	color: #1C2833;
+
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	border-top:0;
+}
+.panel-footer div.row{
+	margin-bottom: 35px;
+}
